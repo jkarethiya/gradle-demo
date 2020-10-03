@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Implementation-Title: gradle-demo
+Implementation-Version: 0.1.0
+Class-Path: 
+Main-Class: gradle.demo.App
+
